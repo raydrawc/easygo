@@ -9,7 +9,7 @@ import (
 	"time"
 )
 
-func main() {
+func main() { // 函数的{ 一定是和函数名在同一行的，否者编译错误
 	// golang 中表达式尾加不加“；” 都可以，建议不加
 	fmt.Println("hello world")
 
